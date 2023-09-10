@@ -5,9 +5,6 @@ In this project, we will analyze a dataset containing information about mall cus
 ## Data Preprocessing
 The first step in the project is to preprocess the data by cleaning and transforming it. We will handle missing values, encode categorical variables, and scale the numerical variables.
 
-### Handling Missing Values
-We will check for missing values in the dataset and decide how to handle them. For example, we can either remove the rows with missing values or fill in the missing values with a suitable value (e.g. mean or mode).
-
 
 ### Scaling Numerical Variables
 Numerical variables need to be scaled to a similar range before they can be used in the clustering algorithm. We will use standardization to scale the numerical variables to have zero mean and unit variance.
